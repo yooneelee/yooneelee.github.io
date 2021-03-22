@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Noto+Serif+JP:wght@200;300;400&display=swap');
+
+h1 {
+    font-size: 130px;
+    margin-left: 324px;
+    margin-top: 124.5px;
+    font-family: 'DM Serif Display', serif;
+}
+hr {
+    margin-top: 200px;
+    margin-left: 430px;
+}
+.first-container {
+    
+    padding-top: 20px;
+}
+h3 {
+    width: 750px;
+    margin-left: 428px;
+    font-family: Noto Serif JP, serif;
+    font-weight: 200;
+    
+}
+h2 {
+    margin-left: 428px;
+    font-family: 'DM Serif Display', serif;
+}
+.topnav {
+    background-color: none;
+    overflow: hidden;
+  }
+
+.topnav a {
+    float: right;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 13px;
+    font-family: 'Noto Serif JP', serif;
+  }
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+.topnav .icon {
+    display: none;
+  }

@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Noto+Serif+JP:wght@200;300;400&family=Raleway:wght@100;300&display=swap');
+
+.topnav {
+    background-color: none;
+    overflow: hidden;
+  }
+
+.topnav a {
+    float: right;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 13px;
+    font-family: 'Noto Serif JP', serif;
+  }
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+.topnav .icon {
+    display: none;
+  }
+
+.first-container {
+    background-color: #FFA200;
+    width: 939px;
+    height: 504px;
+    margin-left: 900px;
+    margin-top: 100px;
+}
+h1 {
+    font-size: 100px;
+    padding-right: 20px;
+    font-family: 'DM Serif Display', serif;
+}
+.head {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin-left: 630px;
+    margin-top: 0px;
+    float:left;
+    font-family: 'DM Serif Display', serif;
+  }
+.second-container {
+    margin-left: 555px;
+    width: 300px;
+    height: 146px;
+}
+h5 {
+    margin-left: 80px;
+    font-family: 'Raleway,' sans-serif;
+    font-weight: 100;
+    
+}
+h4 {
+    margin-left: 80px;
+    font-family: 'Raleway,' sans-serif;
+    font-weight: 100;
+}
